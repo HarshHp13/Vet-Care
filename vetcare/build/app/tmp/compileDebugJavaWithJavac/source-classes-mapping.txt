@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/vetcare/vetcare/MainActivity.java
+ com.vetcare.vetcare.MainActivity
+com/vetcare/vetcare/BuildConfig.java
+ com.vetcare.vetcare.BuildConfig
